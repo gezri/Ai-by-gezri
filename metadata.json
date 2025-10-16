@@ -1,0 +1,5 @@
+{
+  "name": "AI Profile Image Generator",
+  "description": "Generate a professional, high-quality profile image from a detailed text description using the Gemini API. Describe your ideal avatar, and the AI will bring it to life.",
+  "requestFramePermissions": []
+}
